@@ -1,0 +1,135 @@
+#1{ 
+color:pink;
+
+font-family: "Times New Roman", "Courier New", monospace; 
+
+} 
+
+#c{ 
+color: blue; 
+} 
+
+#em{ 
+
+color: black; 
+
+font-family: "Times New Roman", "Courier New", monospace; 
+
+} 
+#descr{ 
+
+color: black; 
+
+font-family: "Times New Roman", "Courier New", monospace; 
+
+} 
+
+#nr{ 
+
+color: black; 
+
+font-family: "Times New Roman", "Courier New", monospace; 
+
+} 
+#text{ 
+
+color: black; 
+
+font-family: "Times New Roman", "Courier New", monospace; 
+
+} 
+#apr{ 
+
+color: #0077b3; 
+font-weight: 900;
+text-decoration-line: underline;
+  text-decoration-style: solid;
+
+} 
+
+#fix{ 
+
+color: black;
+font-family: "Times New Roman", "Courier New", monospace; 
+
+} 
+#pas1{ 
+color: #0077b3; 
+font-weight: 900;
+text-decoration-line: underline;
+  text-decoration-style: solid;
+
+} 
+#pas2{ 
+color:#0077b3; 
+font-weight: 900;
+text-decoration-line: underline;
+  text-decoration-style: solid;
+} 
+#shop {
+  border-style: solid;
+  border-width: 5px;
+  background-color: #ffb366;
+  color:#b3b3ff;
+  border-color: black;
+}
+
+
+table { 
+
+  border: 1px solid black;
+  border-color: #4d0099;
+
+} 
+
+table, th, td { 
+
+  border: 1px solid black;
+  border-color: #4d0099;
+  margin:40px;
+} 
+th{
+	color: black;
+}
+a{
+	color: black;
+}
+td{
+	color: black;
+}
+li{
+	color: black;
+}
+
+div.color{
+  margin-top: 20px;
+  background-color: #60759f;
+  align-self: center;
+}
+div.blue{
+  margin-top: 20px;
+  border-color:#9f6060;
+  margin:20px;
+  border: 1px solid #ac5353;
+  background-color: #ccf3ff;
+}
+
+
+dot { 
+
+  display: block; 
+
+  margin-left: auto; 
+
+  margin-right: auto; 
+
+  border-radius: 10px; 
+
+  opacity:0.8;
+  
+	height:50;  
+
+  width:140px; 
+
+}
+
